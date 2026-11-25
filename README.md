@@ -13,7 +13,7 @@ This script lets you extract them from the APK and convert to the following form
 ## Installation
 
 You need apktool to extract the APK, and CompressonatorCLI to convert PNG to ETC1/ATC/ATCI.
-Install apktool from [here](https://github.com/iBotPeaches/Apktool).
+Install apktool from [here](https://github.com/iBotPeaches/Apktool).  
 Download [compressonatorcli](https://github.com/GPUOpen-Tools/compressonator/releases) for your platform, extract it and place the `compressonatorcli` folder in the same directory as this script.  
 Set up venv and do `pip install -r requirements.txt` to install dependencies.
 
@@ -22,7 +22,8 @@ PNG conversion is always on.
 
 Tested on Debian with apktool installed as a system package.
 
-### I am not responsible for any misuse of this script or converted assets.
+### Legal notice
 
-Remember that extracted and converted assets still belong to the original APK owner, and you should not use them for
-anything other than personal use unless specified otherwise by the license of the original APK.
+Extracted and converted assets remain subject to the copyrights and other rights of their respective owners.  
+By using this tool, you are responsible for ensuring that you have the necessary rights or permissions to extract, convert, reproduce, and use the resulting files under the laws applicable to you.  
+The author does not grant any license to third-party assets processed using this tool and does not endorse copyright infringement or unauthorized redistribution of extracted content.
